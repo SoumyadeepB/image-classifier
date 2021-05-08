@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "863fe1d17a7c23c53fbdac3cfeeb4d21",
+    "revision": "6bc3fc8eba639a27fdea39d2218789f6",
     "url": "/image-classifier/index.html"
   },
   {
